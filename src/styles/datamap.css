@@ -1,0 +1,15 @@
+.map {
+  background-color: white;
+  box-shadow: 0 1.2rem 2.8rem 0 rgba(0,0,0,0.2);
+  border-radius: 10px;
+  box-sizing: border-box;
+  position: relative;
+  // height: 60%;
+  width: 80rem;
+  padding: 0rem;
+  touch-action: auto;
+  margin: 0 auto;
+  overflow: hidden;
+  animation: bounceIn 2s;
+  display: hidden;
+}
