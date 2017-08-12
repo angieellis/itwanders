@@ -1,0 +1,51 @@
+.bubble-info {
+  color: #585869;
+  // height: 4.8rem;
+  // width: 9.5rem;
+  clear: both;
+  line-height: 1.2rem;
+  font-family: 'Ubuntu', serif;
+  overflow: visible;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+}
+
+.bubble-left {
+  margin: 0.3rem;
+  font-weight: 900;
+}
+
+.bubble-right {
+  margin: 0.3rem;
+}
+
+.circle {
+//   position: fixed;
+//   top: 4.5rem;
+//   z-index: 1;
+//   background-color: white;
+//   border-radius: 50%;
+//   width: 5rem;
+//   height: 5rem;
+//   margin: 1rem;
+//   margin: 0.5rem 0.8rem;
+}
+
+.globe {
+  position: fixed;
+  z-index: 2;
+  top: 4.5rem;
+  width: 4rem;
+  height: 4rem;
+  margin: 1rem;
+  // padding: 0.5rem;
+}
+
+.globe:hover {
+  transform: scale(1.2);
+}
+
+.main {
+
+}
